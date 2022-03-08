@@ -1,0 +1,44 @@
+header{
+    background: #E6E6E6;
+    text-align: center;
+}
+h1{
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.espacio_blanco{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+.Rectangulo1{
+    background: #C4C4C4;
+}
+.Rectangulo3 h2{
+    background: #C4C4C4;
+    color: #005677;
+}
+
+footer{
+    text-align: center;
+    background: #005677;
+    color: white;
+}
+
+.negrita_cursiva{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.saltolinea_li{
+    margin-left: 5.5%;
+}
